@@ -1,4 +1,4 @@
-### Hello traveler 
+## Hello
 
 ## Nothing on here is meant for production
 
