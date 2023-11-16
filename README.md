@@ -1,5 +1,4 @@
 ## Hello
-
 ## Nothing on here is meant for production
 
 Welcome to my unfinished playgrounds and personal notes
